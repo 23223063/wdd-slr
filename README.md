@@ -71,6 +71,6 @@ If you use any part of this dataset, please cite our paper:
 
 [20] Wang, Q., Fang, Y., Ravula, A., Feng, F., Quan, X., & Liu, D. (2022). WebFormer: The Web-page Transformer for Structure Information Extraction. Proceedings of the ACM Web Conference 2022, 3124–3133. [DOI](https://doi.org/10.1145/3485447.3512032)
 
-[21] Wu, S., Tong, X., Wang, W., Xin, G., Wang, B., & Zhou, Q. (2018). Website defacements detection based on support vector machine classification method. ACM International Conference Proceeding Series, Part F137704, 62–66. https://doi.org/10.1145/3219788.3219804
+[21] Wu, S., Tong, X., Wang, W., Xin, G., Wang, B., & Zhou, Q. (2018). Website defacements detection based on support vector machine classification method. ACM International Conference Proceeding Series, Part F137704, 62–66. [DOI](https://doi.org/10.1145/3219788.3219804)
 
 [22] Zhao, R. (2023). The Chameleon on the Web: an Empirical Study of the Insidious Proactive Web De-facements. ACM Web Conference 2023 - Proceedings of the World Wide Web Conference, WWW 2023, 2241–2251. [DOI](https://doi.org/10.1145/3543507.3583377)
