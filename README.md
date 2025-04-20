@@ -4,13 +4,13 @@ This repository contains the supplementary materials and datasets used in the sy
 
 ## Contents
 
-- 📚 **BibTeX File (`references.bib`)**  
+- 📚 **BibTeX File (`BibTex Folder`)**  
   A collection of BibTeX-formatted references cited in the study.
 
-- 🔗 **Journal Links (`journal_links.csv`)**  
-  A CSV file listing the title, authors, publication year, and direct links to the journal articles included in the review (open-access links where available).
+- 🔗 **Journal Links**  
+  Click link DOI or Website each journal below.
 
-- 📊 **Extracted Data (`web_defacement_review.xlsx`)**  
+- 📊 **Extracted Data (`Journal Extraction.xlsx`)**  
   An Excel spreadsheet containing extracted metadata from each selected publication, including:
   - Authors
   - Year
